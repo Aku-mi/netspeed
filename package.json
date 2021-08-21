@@ -1,5 +1,5 @@
 {
-  "name": "netspeed-excel",
+  "name": "netspeed-xlsx",
   "version": "1.0.0",
   "description": "Simple CLI to test out your network speed with up to 2 hosts.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aku-mi/netspeed-excel.git"
+    "url": "https://github.com/Aku-mi/netspeed-xlsx.git"
   },
   "keywords": [
     "speed",

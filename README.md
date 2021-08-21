@@ -22,7 +22,7 @@
 
 > Based on https://github.com/ddsol/speedtest.net
 
-> S ervers taken from: https://williamyaps.github.io/wlmjavascript/servercli.html
+> Servers taken from: https://williamyaps.github.io/wlmjavascript/servercli.html
 
 ### Usage:
 

@@ -1,5 +1,5 @@
 {
-  "name": "netspeed",
+  "name": "netspeed-excel",
   "version": "1.0.0",
   "description": "Simple CLI to test out your network speed with up to 2 hosts.",
   "main": "index.js",

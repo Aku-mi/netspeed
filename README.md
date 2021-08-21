@@ -27,7 +27,7 @@
 ### Usage:
 
 ```shell
-netspeed -r 2 -w -s -t 50 -H1 usa -H2 japan
+netspeed-excel -r 2 -w -s -t 50 -H1 usa -H2 japan
 ```
 
     It will output two files in this case.

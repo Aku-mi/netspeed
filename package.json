@@ -1,0 +1,20 @@
+{
+  "name": "netspeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node src",
+    "net": "speedtest-net"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "excel4node": "^1.7.2",
+    "speedtest-net": "^2.2.0"
+  }
+}
